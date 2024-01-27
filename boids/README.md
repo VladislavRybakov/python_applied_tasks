@@ -3,4 +3,4 @@
 
 Все условия в jupiter файле, реализация - в py файлах. Если кратко - симуляция мурмурации птиц, движения молекул или частиц.
 
-Модули vispy, numpy, numba.
+Модули vispy, numpy, numba. Результаты записаны с помощью библиотеки ffmpeg. Видео можно посмотреть по ссылке: https://drive.google.com/drive/folders/1wZjwxewt4ru-Htuhs54SFRYGVeRB43EE?usp=sharing .
